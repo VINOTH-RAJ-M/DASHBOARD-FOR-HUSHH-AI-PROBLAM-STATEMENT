@@ -1,0 +1,51 @@
+ambassador_id,name,email,phone,college,city,state,region,join_date,status,total_signups,total_events,social_media_reach,engagement_score,performance_tier,last_active_date
+AMB001,Rahul Sharma,rahul.sharma@iitd.ac.in,9876543210,IIT Delhi,Delhi,Delhi,North,2024-01-15,Active,245,8,15000,92,High,2024-03-20
+AMB002,Priya Patel,priya.p@vit.ac.in,9876543211,VIT Vellore,Vellore,Tamil Nadu,South,2024-01-20,Active,189,6,12000,85,High,2024-03-22
+AMB003,Arjun Kumar,arjun.k@nitk.edu.in,9876543212,NIT Karnataka,Surathkal,Karnataka,South,2024-02-01,Active,156,5,9500,78,Medium,2024-03-21
+AMB004,Sneha Reddy,sneha.r@iitm.ac.in,9876543213,IIT Madras,Chennai,Tamil Nadu,South,2024-01-18,Active,198,7,13500,88,High,2024-03-23
+AMB005,Karthik Menon,karthik.m@bits-pilani.ac.in,9876543214,BITS Pilani,Pilani,Rajasthan,North,2024-02-05,Active,167,6,10000,82,Medium,2024-03-20
+AMB006,Ananya Singh,ananya.s@iitb.ac.in,9876543215,IIT Bombay,Mumbai,Maharashtra,West,2024-01-25,Active,223,9,16000,90,High,2024-03-24
+AMB007,Rohan Verma,rohan.v@dtu.ac.in,9876543216,DTU Delhi,Delhi,Delhi,North,2024-02-10,Active,134,4,7500,75,Medium,2024-03-19
+AMB008,Divya Nair,divya.n@nitt.edu,9876543217,NIT Trichy,Trichy,Tamil Nadu,South,2024-01-28,Active,178,6,11000,84,High,2024-03-22
+AMB009,Amit Joshi,amit.j@iitkgp.ac.in,9876543218,IIT Kharagpur,Kharagpur,West Bengal,East,2024-02-15,Active,142,5,8500,76,Medium,2024-03-18
+AMB010,Kavya Iyer,kavya.i@srm.edu.in,9876543219,SRM University,Chennai,Tamil Nadu,South,2024-02-20,Active,98,3,6000,68,Medium,2024-03-23
+AMB011,Vikram Choudhary,vikram.c@manipal.edu,9876543220,Manipal University,Manipal,Karnataka,South,2024-01-22,Inactive,45,1,3000,35,Low,2024-02-28
+AMB012,Ishita Bansal,ishita.b@nsit.ac.in,9876543221,NSUT Delhi,Delhi,Delhi,North,2024-02-25,Active,112,4,7000,72,Medium,2024-03-21
+AMB013,Aditya Gupta,aditya.g@iitr.ac.in,9876543222,IIT Roorkee,Roorkee,Uttarakhand,North,2024-01-30,Active,187,7,12500,86,High,2024-03-24
+AMB014,Meera Krishnan,meera.k@amrita.edu,9876543223,Amrita University,Coimbatore,Tamil Nadu,South,2024-02-12,Active,123,4,7800,74,Medium,2024-03-20
+AMB015,Siddharth Rao,sid.rao@rvce.edu.in,9876543224,RVCE Bangalore,Bangalore,Karnataka,South,2024-02-08,Active,145,5,9000,77,Medium,2024-03-22
+AMB016,Pooja Mehta,pooja.m@iitg.ac.in,9876543225,IIT Guwahati,Guwahati,Assam,East,2024-01-26,Active,165,6,10500,81,Medium,2024-03-19
+AMB017,Nikhil Desai,nikhil.d@coep.ac.in,9876543226,COEP Pune,Pune,Maharashtra,West,2024-02-18,Active,156,5,9200,79,Medium,2024-03-23
+AMB018,Riya Chatterjee,riya.c@jadavpur.edu.in,9876543227,Jadavpur University,Kolkata,West Bengal,East,2024-02-22,Active,89,3,5500,65,Low,2024-03-17
+AMB019,Harsh Agarwal,harsh.a@lnmiit.ac.in,9876543228,LNMIIT Jaipur,Jaipur,Rajasthan,North,2024-01-24,Active,198,7,13000,87,High,2024-03-24
+AMB020,Tanvi Shah,tanvi.s@pdpu.ac.in,9876543229,PDPU Gandhinagar,Gandhinagar,Gujarat,West,2024-02-14,Active,134,4,8000,73,Medium,2024-03-21
+AMB021,Gaurav Sharma,gaurav.s@thapar.edu,9876543230,Thapar University,Patiala,Punjab,North,2024-02-28,Active,67,2,4500,58,Low,2024-03-22
+AMB022,Nidhi Kapoor,nidhi.k@jiit.ac.in,9876543231,JIIT Noida,Noida,Uttar Pradesh,North,2024-01-29,Inactive,34,1,2500,28,Low,2024-03-01
+AMB023,Aryan Malhotra,aryan.m@pec.ac.in,9876543232,PEC Chandigarh,Chandigarh,Chandigarh,North,2024-02-16,Active,145,5,8800,78,Medium,2024-03-20
+AMB024,Shruti Venkat,shruti.v@ssn.edu.in,9876543233,SSN Chennai,Chennai,Tamil Nadu,South,2024-02-11,Active,112,4,7200,71,Medium,2024-03-23
+AMB025,Abhishek Tiwari,abhishek.t@mnnit.ac.in,9876543234,MNNIT Allahabad,Allahabad,Uttar Pradesh,North,2024-02-06,Active,156,6,9800,80,Medium,2024-03-19
+AMB026,Ritika Jain,ritika.j@daiict.ac.in,9876543235,DA-IICT Gandhinagar,Gandhinagar,Gujarat,West,2024-01-31,Active,178,6,11500,83,High,2024-03-24
+AMB027,Pranav Singh,pranav.s@iiita.ac.in,9876543236,IIIT Allahabad,Allahabad,Uttar Pradesh,North,2024-02-24,Active,98,3,6200,69,Medium,2024-03-21
+AMB028,Anjali Kumar,anjali.k@cusat.ac.in,9876543237,CUSAT Kochi,Kochi,Kerala,South,2024-02-19,Active,134,5,8300,75,Medium,2024-03-22
+AMB029,Varun Khanna,varun.k@ipu.ac.in,9876543238,IPU Delhi,Delhi,Delhi,North,2024-02-09,Inactive,23,0,1500,22,Low,2024-02-15
+AMB030,Sakshi Mishra,sakshi.m@bvp.edu.in,9876543239,BVP Pune,Pune,Maharashtra,West,2024-01-27,Active,189,7,12800,86,High,2024-03-24
+AMB031,Yash Patel,yash.p@ldce.ac.in,9876543240,LDCE Ahmedabad,Ahmedabad,Gujarat,West,2024-02-21,Active,123,4,7600,73,Medium,2024-03-20
+AMB032,Neha Reddy,neha.r@cbit.ac.in,9876543241,CBIT Hyderabad,Hyderabad,Telangana,South,2024-02-13,Active,167,6,10200,81,Medium,2024-03-23
+AMB033,Rohit Gupta,rohit.g@tiet.ac.in,9876543242,TIET Patiala,Patiala,Punjab,North,2024-02-07,Active,145,5,8900,77,Medium,2024-03-19
+AMB034,Kritika Singh,kritika.s@lpu.in,9876543243,LPU Jalandhar,Jalandhar,Punjab,North,2024-02-26,Active,78,2,5000,62,Low,2024-03-22
+AMB035,Sahil Chawla,sahil.c@nitw.ac.in,9876543244,NIT Warangal,Warangal,Telangana,South,2024-01-23,Active,198,8,13500,88,High,2024-03-24
+AMB036,Isha Agarwal,isha.a@iitbhu.ac.in,9876543245,IIT BHU,Varanasi,Uttar Pradesh,North,2024-02-17,Active,176,6,11200,84,High,2024-03-21
+AMB037,Kunal Sharma,kunal.s@nits.ac.in,9876543246,NIT Silchar,Silchar,Assam,East,2024-02-23,Active,89,3,5800,66,Low,2024-03-18
+AMB038,Deepika Nair,deepika.n@iitpkd.ac.in,9876543247,IIT Palakkad,Palakkad,Kerala,South,2024-02-04,Active,156,5,9600,79,Medium,2024-03-23
+AMB039,Rajat Verma,rajat.v@vnit.ac.in,9876543248,VNIT Nagpur,Nagpur,Maharashtra,West,2024-02-27,Active,112,4,7100,71,Medium,2024-03-20
+AMB040,Simran Kaur,simran.k@gndec.ac.in,9876543249,GNDEC Ludhiana,Ludhiana,Punjab,North,2024-01-21,Active,134,5,8400,74,Medium,2024-03-22
+AMB041,Akash Mehta,akash.m@svnit.ac.in,9876543250,SVNIT Surat,Surat,Gujarat,West,2024-02-29,Active,56,2,3800,54,Low,2024-03-21
+AMB042,Tanya Bose,tanya.b@iiests.ac.in,9876543251,IIEST Shibpur,Howrah,West Bengal,East,2024-02-03,Active,167,6,10300,82,Medium,2024-03-24
+AMB043,Manish Kumar,manish.k@nita.ac.in,9876543252,NIT Agartala,Agartala,Tripura,East,2024-02-15,Inactive,45,1,2800,31,Low,2024-03-05
+AMB044,Prerna Shah,prerna.s@nirmauni.ac.in,9876543253,Nirma University,Ahmedabad,Gujarat,West,2024-01-19,Active,189,7,12600,85,High,2024-03-23
+AMB045,Vishal Yadav,vishal.y@mec.ac.in,9876543254,MEC Kochi,Kochi,Kerala,South,2024-02-20,Active,123,4,7700,72,Medium,2024-03-19
+AMB046,Ritu Singh,ritu.s@hbtu.ac.in,9876543255,HBTU Kanpur,Kanpur,Uttar Pradesh,North,2024-02-12,Active,145,5,9100,78,Medium,2024-03-24
+AMB047,Mohit Agarwal,mohit.a@ietlucknow.ac.in,9876543256,IET Lucknow,Lucknow,Uttar Pradesh,North,2024-02-25,Active,98,3,6100,68,Medium,2024-03-20
+AMB048,Pallavi Reddy,pallavi.r@osmania.ac.in,9876543257,Osmania University,Hyderabad,Telangana,South,2024-02-08,Active,156,6,9700,80,Medium,2024-03-22
+AMB049,Shubham Jain,shubham.j@sgsits.ac.in,9876543258,SGSITS Indore,Indore,Madhya Pradesh,Central,2024-01-17,Active,178,7,11800,84,High,2024-03-23
+AMB050,Aditi Verma,aditi.v@iiitvadodara.ac.in,9876543259,IIIT Vadodara,Vadodara,Gujarat,West,2024-02-14,Active,134,5,8200,75,Medium,2024-03-21

@@ -1,0 +1,78 @@
+event_id,ambassador_id,event_name,event_type,event_date,attendees,signups_generated,college,city,duration_hours,budget_spent,event_rating
+EVT001,AMB001,Tech Talk: AI in 2024,Workshop,2024-01-20,85,32,IIT Delhi,Delhi,3,5000,4.5
+EVT002,AMB001,Coding Bootcamp,Workshop,2024-02-05,120,45,IIT Delhi,Delhi,6,8000,4.7
+EVT003,AMB002,Product Demo Day,Demo,2024-01-25,65,28,VIT Vellore,Vellore,2,3000,4.3
+EVT004,AMB002,Career Fair Booth,Exhibition,2024-02-10,200,35,VIT Vellore,Vellore,8,12000,4.6
+EVT005,AMB003,Startup Pitching Workshop,Workshop,2024-02-08,45,18,NIT Karnataka,Surathkal,4,4000,4.2
+EVT006,AMB004,Hackathon 2024,Competition,2024-02-15,150,62,IIT Madras,Chennai,24,15000,4.8
+EVT007,AMB004,Tech Meetup,Meetup,2024-03-01,80,26,IIT Madras,Chennai,3,2000,4.4
+EVT008,AMB005,Design Thinking Session,Workshop,2024-02-12,55,22,BITS Pilani,Pilani,4,3500,4.3
+EVT009,AMB006,Product Launch Event,Launch,2024-02-20,180,58,IIT Bombay,Mumbai,4,10000,4.9
+EVT010,AMB006,Campus Drive Prep,Seminar,2024-03-05,95,34,IIT Bombay,Mumbai,3,3000,4.5
+EVT011,AMB007,Resume Building Workshop,Workshop,2024-02-18,70,25,DTU Delhi,Delhi,2,2000,4.1
+EVT012,AMB008,Data Science Bootcamp,Workshop,2024-02-22,100,41,NIT Trichy,Trichy,5,6000,4.6
+EVT013,AMB009,Blockchain Basics,Seminar,2024-02-25,60,19,IIT Kharagpur,Kharagpur,3,2500,4.2
+EVT014,AMB010,Marketing Case Study,Workshop,2024-03-02,40,15,SRM University,Chennai,2,1500,3.9
+EVT015,AMB011,Tech Quiz Competition,Competition,2024-02-05,30,8,Manipal University,Manipal,2,1000,3.7
+EVT016,AMB012,Cybersecurity Awareness,Seminar,2024-03-01,55,20,NSUT Delhi,Delhi,3,2000,4.2
+EVT017,AMB013,Machine Learning Workshop,Workshop,2024-02-28,110,48,IIT Roorkee,Roorkee,6,7000,4.7
+EVT018,AMB014,Entrepreneurship Talk,Seminar,2024-02-20,65,24,Amrita University,Coimbatore,2,1500,4.3
+EVT019,AMB015,Web Development Bootcamp,Workshop,2024-02-16,75,28,RVCE Bangalore,Bangalore,4,3500,4.4
+EVT020,AMB016,Cloud Computing Demo,Demo,2024-02-24,50,18,IIT Guwahati,Guwahati,2,2000,4.1
+EVT021,AMB017,IoT Workshop,Workshop,2024-03-03,68,25,COEP Pune,Pune,4,3000,4.3
+EVT022,AMB018,Python Programming,Workshop,2024-02-28,45,16,Jadavpur University,Kolkata,3,2000,4.0
+EVT023,AMB019,Product Management Talk,Seminar,2024-03-06,90,38,LNMIIT Jaipur,Jaipur,3,3000,4.6
+EVT024,AMB020,Digital Marketing Workshop,Workshop,2024-02-26,55,21,PDPU Gandhinagar,Gandhinagar,3,2500,4.2
+EVT025,AMB021,Mobile App Development,Workshop,2024-03-08,35,12,Thapar University,Patiala,4,2000,3.8
+EVT026,AMB023,DevOps Fundamentals,Seminar,2024-03-04,62,23,PEC Chandigarh,Chandigarh,3,2500,4.3
+EVT027,AMB024,UI/UX Design Workshop,Workshop,2024-03-01,48,18,SSN Chennai,Chennai,4,2000,4.1
+EVT028,AMB025,Data Analytics Seminar,Seminar,2024-02-29,70,26,MNNIT Allahabad,Allahabad,3,2500,4.4
+EVT029,AMB026,Career Guidance Session,Seminar,2024-03-07,85,32,DA-IICT Gandhinagar,Gandhinagar,2,2000,4.5
+EVT030,AMB027,Git and GitHub Workshop,Workshop,2024-03-05,42,15,IIIT Allahabad,Allahabad,2,1500,4.0
+EVT031,AMB028,Full Stack Development,Workshop,2024-03-02,58,22,CUSAT Kochi,Kochi,5,3000,4.3
+EVT032,AMB030,Hackathon Prep Session,Workshop,2024-03-09,95,38,BVP Pune,Pune,4,4000,4.6
+EVT033,AMB031,API Development Workshop,Workshop,2024-03-06,50,19,LDCE Ahmedabad,Ahmedabad,3,2000,4.2
+EVT034,AMB032,React.js Bootcamp,Workshop,2024-03-08,72,28,CBIT Hyderabad,Hyderabad,5,3500,4.5
+EVT035,AMB033,Interview Preparation,Seminar,2024-03-03,55,20,TIET Patiala,Patiala,2,1500,4.1
+EVT036,AMB034,Startup Incubation Talk,Seminar,2024-03-10,38,13,LPU Jalandhar,Jalandhar,2,1000,3.9
+EVT037,AMB035,AI/ML Hackathon,Competition,2024-03-12,140,56,NIT Warangal,Warangal,20,12000,4.8
+EVT038,AMB036,Competitive Programming,Workshop,2024-03-07,88,34,IIT BHU,Varanasi,4,3000,4.6
+EVT039,AMB037,Android Development,Workshop,2024-03-04,40,14,NIT Silchar,Silchar,4,2000,4.0
+EVT040,AMB038,Open Source Contribution,Seminar,2024-03-09,65,24,IIT Palakkad,Palakkad,3,2000,4.3
+EVT041,AMB039,Database Management,Workshop,2024-03-06,52,19,VNIT Nagpur,Nagpur,3,2500,4.2
+EVT042,AMB040,Soft Skills Development,Workshop,2024-03-08,60,22,GNDEC Ludhiana,Ludhiana,3,2000,4.1
+EVT043,AMB041,Flutter Workshop,Workshop,2024-03-11,32,11,SVNIT Surat,Surat,4,2000,3.8
+EVT044,AMB042,Tech Fest Collaboration,Festival,2024-03-10,120,48,IIEST Shibpur,Howrah,12,8000,4.7
+EVT045,AMB044,Product Design Sprint,Workshop,2024-03-12,78,31,Nirma University,Ahmedabad,5,4000,4.5
+EVT046,AMB045,LinkedIn Optimization,Seminar,2024-03-09,48,17,MEC Kochi,Kochi,2,1000,4.0
+EVT047,AMB046,Algorithm Workshop,Workshop,2024-03-11,62,23,HBTU Kanpur,Kanpur,4,2500,4.3
+EVT048,AMB047,Freelancing Guide,Seminar,2024-03-10,38,14,IET Lucknow,Lucknow,2,1500,3.9
+EVT049,AMB048,Cloud Architecture,Workshop,2024-03-13,68,26,Osmania University,Hyderabad,4,3000,4.4
+EVT050,AMB049,Tech Innovation Summit,Conference,2024-03-14,95,42,SGSITS Indore,Indore,6,6000,4.7
+EVT051,AMB050,Networking Skills,Seminar,2024-03-12,55,20,IIIT Vadodara,Vadodara,2,1500,4.2
+EVT052,AMB001,Industry Connect Meetup,Meetup,2024-03-10,75,28,IIT Delhi,Delhi,3,2500,4.4
+EVT053,AMB002,Product Marketing Workshop,Workshop,2024-03-12,82,31,VIT Vellore,Vellore,4,3500,4.5
+EVT054,AMB003,Tech Symposium,Conference,2024-03-15,98,38,NIT Karnataka,Surathkal,8,7000,4.6
+EVT055,AMB004,Coding Competition,Competition,2024-03-16,110,45,IIT Madras,Chennai,12,8000,4.8
+EVT056,AMB005,Design Hackathon,Competition,2024-03-14,65,26,BITS Pilani,Pilani,16,6000,4.5
+EVT057,AMB006,Tech Leadership Talk,Seminar,2024-03-17,105,42,IIT Bombay,Mumbai,3,3500,4.7
+EVT058,AMB007,Campus Connect Event,Networking,2024-03-15,58,21,DTU Delhi,Delhi,2,2000,4.2
+EVT059,AMB008,Advanced Python,Workshop,2024-03-18,85,34,NIT Trichy,Trichy,5,4000,4.6
+EVT060,AMB009,Fintech Workshop,Workshop,2024-03-16,68,25,IIT Kharagpur,Kharagpur,4,3000,4.3
+EVT061,AMB010,Brand Building Seminar,Seminar,2024-03-17,52,19,SRM University,Chennai,2,1500,4.0
+EVT062,AMB012,Ethical Hacking,Workshop,2024-03-19,72,27,NSUT Delhi,Delhi,5,3500,4.4
+EVT063,AMB013,Deep Learning Workshop,Workshop,2024-03-20,92,39,IIT Roorkee,Roorkee,6,5000,4.7
+EVT064,AMB014,Business Analytics,Seminar,2024-03-18,58,21,Amrita University,Coimbatore,3,2000,4.2
+EVT065,AMB015,JavaScript Masterclass,Workshop,2024-03-19,78,29,RVCE Bangalore,Bangalore,4,3000,4.5
+EVT066,AMB016,AWS Workshop,Workshop,2024-03-21,62,23,IIT Guwahati,Guwahati,4,3500,4.3
+EVT067,AMB017,Robotics Demo,Demo,2024-03-20,75,28,COEP Pune,Pune,3,3000,4.4
+EVT068,AMB019,Consulting Careers,Seminar,2024-03-22,98,40,LNMIIT Jaipur,Jaipur,3,2500,4.6
+EVT069,AMB020,Growth Hacking Workshop,Workshop,2024-03-21,68,25,PDPU Gandhinagar,Gandhinagar,4,2500,4.3
+EVT070,AMB023,Linux Fundamentals,Workshop,2024-03-22,70,26,PEC Chandigarh,Chandigarh,3,2000,4.4
+EVT071,AMB026,AR/VR Experience,Demo,2024-03-23,88,35,DA-IICT Gandhinagar,Gandhinagar,4,5000,4.6
+EVT072,AMB030,Agile Methodology,Workshop,2024-03-24,82,33,BVP Pune,Pune,4,3000,4.5
+EVT073,AMB032,Node.js Workshop,Workshop,2024-03-23,76,30,CBIT Hyderabad,Hyderabad,5,3500,4.5
+EVT074,AMB035,Project Showcase,Exhibition,2024-03-24,125,51,NIT Warangal,Warangal,6,5000,4.8
+EVT075,AMB036,DSA Masterclass,Workshop,2024-03-22,95,38,IIT BHU,Varanasi,5,4000,4.7
+EVT076,AMB044,E-commerce Workshop,Workshop,2024-03-23,85,34,Nirma University,Ahmedabad,4,3500,4.6
+EVT077,AMB049,Innovation Challenge,Competition,2024-03-24,88,37,SGSITS Indore,Indore,10,6000,4.7

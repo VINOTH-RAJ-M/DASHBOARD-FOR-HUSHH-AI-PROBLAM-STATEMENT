@@ -1,0 +1,51 @@
+college,city,state,region,total_ambassadors,active_ambassadors,total_signups,total_events,avg_performance_score,tier
+IIT Delhi,Delhi,Delhi,North,1,1,245,8,92,Premium
+VIT Vellore,Vellore,Tamil Nadu,South,1,1,189,6,85,Premium
+NIT Karnataka,Surathkal,Karnataka,South,1,1,156,5,78,Premium
+IIT Madras,Chennai,Tamil Nadu,South,1,1,198,7,88,Premium
+BITS Pilani,Pilani,Rajasthan,North,1,1,167,6,82,Premium
+IIT Bombay,Mumbai,Maharashtra,West,1,1,223,9,90,Premium
+DTU Delhi,Delhi,Delhi,North,1,1,134,4,75,Premium
+NIT Trichy,Trichy,Tamil Nadu,South,1,1,178,6,84,Premium
+IIT Kharagpur,Kharagpur,West Bengal,East,1,1,142,5,76,Premium
+SRM University,Chennai,Tamil Nadu,South,1,1,98,3,68,Standard
+Manipal University,Manipal,Karnataka,South,1,0,45,1,35,Standard
+NSUT Delhi,Delhi,Delhi,North,1,1,112,4,72,Premium
+IIT Roorkee,Roorkee,Uttarakhand,North,1,1,187,7,86,Premium
+Amrita University,Coimbatore,Tamil Nadu,South,1,1,123,4,74,Standard
+RVCE Bangalore,Bangalore,Karnataka,South,1,1,145,5,77,Standard
+IIT Guwahati,Guwahati,Assam,East,1,1,165,6,81,Premium
+COEP Pune,Pune,Maharashtra,West,1,1,156,5,79,Premium
+Jadavpur University,Kolkata,West Bengal,East,1,1,89,3,65,Standard
+LNMIIT Jaipur,Jaipur,Rajasthan,North,1,1,198,7,87,Premium
+PDPU Gandhinagar,Gandhinagar,Gujarat,West,1,1,134,4,73,Standard
+Thapar University,Patiala,Punjab,North,1,1,67,2,58,Standard
+JIIT Noida,Noida,Uttar Pradesh,North,1,0,34,1,28,Standard
+PEC Chandigarh,Chandigarh,Chandigarh,North,1,1,145,5,78,Premium
+SSN Chennai,Chennai,Tamil Nadu,South,1,1,112,4,71,Standard
+MNNIT Allahabad,Allahabad,Uttar Pradesh,North,1,1,156,6,80,Premium
+DA-IICT Gandhinagar,Gandhinagar,Gujarat,West,1,1,178,6,83,Premium
+IIIT Allahabad,Allahabad,Uttar Pradesh,North,1,1,98,3,69,Premium
+CUSAT Kochi,Kochi,Kerala,South,1,1,134,5,75,Standard
+IPU Delhi,Delhi,Delhi,North,1,0,23,0,22,Standard
+BVP Pune,Pune,Maharashtra,West,1,1,189,7,86,Premium
+LDCE Ahmedabad,Ahmedabad,Gujarat,West,1,1,123,4,73,Standard
+CBIT Hyderabad,Hyderabad,Telangana,South,1,1,167,6,81,Standard
+TIET Patiala,Patiala,Punjab,North,1,1,145,5,77,Standard
+LPU Jalandhar,Jalandhar,Punjab,North,1,1,78,2,62,Standard
+NIT Warangal,Warangal,Telangana,South,1,1,198,8,88,Premium
+IIT BHU,Varanasi,Uttar Pradesh,North,1,1,176,6,84,Premium
+NIT Silchar,Silchar,Assam,East,1,1,89,3,66,Standard
+IIT Palakkad,Palakkad,Kerala,South,1,1,156,5,79,Premium
+VNIT Nagpur,Nagpur,Maharashtra,West,1,1,112,4,71,Standard
+GNDEC Ludhiana,Ludhiana,Punjab,North,1,1,134,5,74,Standard
+SVNIT Surat,Surat,Gujarat,West,1,1,56,2,54,Standard
+IIEST Shibpur,Howrah,West Bengal,East,1,1,167,6,82,Premium
+NIT Agartala,Agartala,Tripura,East,1,0,45,1,31,Standard
+Nirma University,Ahmedabad,Gujarat,West,1,1,189,7,85,Premium
+MEC Kochi,Kochi,Kerala,South,1,1,123,4,72,Standard
+HBTU Kanpur,Kanpur,Uttar Pradesh,North,1,1,145,5,78,Standard
+IET Lucknow,Lucknow,Uttar Pradesh,North,1,1,98,3,68,Standard
+Osmania University,Hyderabad,Telangana,South,1,1,156,6,80,Standard
+SGSITS Indore,Indore,Madhya Pradesh,Central,1,1,178,7,84,Premium
+IIIT Vadodara,Vadodara,Gujarat,West,1,1,134,5,75,Standard
